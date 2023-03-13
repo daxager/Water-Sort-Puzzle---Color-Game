@@ -9,7 +9,7 @@
   Vi Game built the app <strong>Water Sort Puzzle - Color Game</strong> as (open source/free/freemium/ad-supported/commercial) app. This SERVICE is provided by <strong>Vi Game</strong> at no cost and is intended for use as is.
 </p>
 <p>
-  This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use [my/our] Service.
+  This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
 </p>
 <p>
   If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that We collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
@@ -96,7 +96,7 @@
   </strong>
 </p>
 <p>
-  This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by [me/us]. Therefore, [I/We] strongly advise you to review the Privacy Policy of these websites. [I/We] have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+  This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us. Therefore, We strongly advise you to review the Privacy Policy of these websites. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
 </p>
 <p>
   <strong>
